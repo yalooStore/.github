@@ -34,5 +34,14 @@
 - front 서버에서 들어온 인증, 인가 관련 처리를 이곳 서버에서 처리합니다.
 
 ### 회원 인증
+- Spring security와 jwt + Redis를 사용한 회원 인증 작업 시행
 ### 회원 인가
+
+# Skill tech 
+<img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
+<div>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/springBoot-6DB33F?style=flat&logo=Spring boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>
+</div>
 
