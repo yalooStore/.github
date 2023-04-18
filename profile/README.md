@@ -5,7 +5,13 @@
 - API gateway 
 - auth server (인증, 인가)
 
-# Shop - Rest API Server
+# 1.Project architecture
+![image](https://user-images.githubusercontent.com/81970382/232740138-28aa5614-7928-4641-8f81-ad2fdf58b0cf.png)
+
+# 2.ERD
+
+# 3.프로젝트 서버별 상세설명
+## Shop - Rest API Server
 - 클라이언트 요청을 처리하는 api 관련 서버 입니다.
 ### 회원
 - 회원가입
@@ -23,14 +29,14 @@
 ### 주문
 
 
-# Front - Client Server
+## Front - Client Server
 - 클라이언트가 요청을 보낼 수 있는 서버로 이곳에서 front를 담당합니다.
 
 
-# Api gateway
+## Api gateway
 - 들어온 요청을 api gateway를 통해 처리할 수 있도록 하여 보안성을 올립니다.
 
-# Auth Server
+## Auth Server
 - front 서버에서 들어온 인증, 인가 관련 처리를 이곳 서버에서 처리합니다.
 
 ### 회원 인증
@@ -38,7 +44,7 @@
 ### 회원 인가
 
 
-# Batch Server 
+## Batch Server 
 - 회원 생일 기점으로 +n일 후 생일 쿠폰 지급 
 
 # Skill tech 
