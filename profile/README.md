@@ -37,6 +37,10 @@
 - Spring security와 jwt + Redis를 사용한 회원 인증 작업 시행
 ### 회원 인가
 
+
+# Batch Server 
+- 회원 생일 기점으로 +n일 후 생일 쿠폰 지급 
+
 # Skill tech 
 <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
 <div>
