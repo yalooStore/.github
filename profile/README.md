@@ -1,4 +1,4 @@
-# 🛍️쇼핑몰 만들기
+# 🛍️MSA 쇼핑몰 프로젝트
 
 - <a href="https://github.com/yalooStore/yalooStore-shop">API Serve</a>
 - <a href="https://github.com/yalooStore/yalooStore-front">Front Serve</a>
@@ -7,12 +7,13 @@
 - <a href="https://github.com/yalooStore/yalooStore-gateway">Gateway Serve</a>
 
 # 1.Project architecture
-![image](https://user-images.githubusercontent.com/81970382/232740138-28aa5614-7928-4641-8f81-ad2fdf58b0cf.png)
+![image](https://github.com/yalooStore/.github/assets/81970382/a469c261-2ff1-4221-b220-2de4618ddf4a)
 
 # 2.ERD
+![image](https://github.com/yalooStore/.github/assets/81970382/bd76977e-8b3c-4a5a-bf16-ac39626efe87)
 
 # 3.프로젝트 서버별 상세설명
-## Shop - Rest API Server
+## Shop - API Server
 - 클라이언트 요청을 처리하는 api 관련 서버 입니다.
 ### 회원
 - 회원가입
