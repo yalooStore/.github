@@ -1,9 +1,10 @@
 # 🛍️쇼핑몰 만들기
 
-- shop (api server)
-- front (client server)
-- API gateway 
-- auth server (인증, 인가)
+- <a href="https://github.com/yalooStore/yalooStore-shop">API Serve</a>
+- <a href="https://github.com/yalooStore/yalooStore-front">Front Serve</a>
+- <a href="https://github.com/yalooStore/yalooStore-auth">Auth Serve</a>
+- <a href="https://github.com/yalooStore/yalooStore-batch">Batch Serve</a>
+- <a href="https://github.com/yalooStore/yalooStore-gateway">Gateway Serve</a>
 
 # 1.Project architecture
 ![image](https://user-images.githubusercontent.com/81970382/232740138-28aa5614-7928-4641-8f81-ad2fdf58b0cf.png)
