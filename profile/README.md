@@ -1,10 +1,13 @@
 # 🛍️MSA 쇼핑몰 프로젝트
-
+### 서버
 - <a href="https://github.com/yalooStore/yalooStore-shop">API Serve</a>
 - <a href="https://github.com/yalooStore/yalooStore-front">Front Serve</a>
 - <a href="https://github.com/yalooStore/yalooStore-auth">Auth Serve</a>
 - <a href="https://github.com/yalooStore/yalooStore-batch">Batch Serve</a>
 - <a href="https://github.com/yalooStore/yalooStore-gateway">Gateway Serve</a>
+
+### jitpack을 사용한 공용 모듈화
+- <a href="https://github.com/yalooStore/yalooStore-common-utils">Common Utils</a>
 
 # 1.Project architecture
 ![image](https://github.com/yalooStore/.github/assets/81970382/a469c261-2ff1-4221-b220-2de4618ddf4a)
@@ -40,14 +43,18 @@
 
 ## Auth Server
 - front 서버에서 들어온 인증, 인가 관련 처리를 이곳 서버에서 처리합니다.
-
+- spring security를 사용한 인증, 인가 작업을 진행합니다. 
 ### 회원 인증
-- Spring security와 jwt + Redis를 사용한 회원 인증 작업 시행
+- 인증 작업을 진행하고 해당 회원의 인증이 완료되었다면 jwt를 발급합니다.
+- jwt를 accessToken으로 사용해서 세션 대신 상태 유지를 지속해줍니다.
+- jwt을 이용한 상태 유지를 위해서 해당 작업에 redis를 사용해 정보를 저장합니다.
 ### 회원 인가
+- 회원 정보에 따른 회원 역할에 따라서 다른 페이지를 보여줄 수 있게 구성합니다.
 
-
-## Batch Server 
-- 회원 생일 기점으로 +n일 후 생일 쿠폰 지급 
+  
+## Batch Server + spring shceduler
+- 회원 생일 기점으로 +n일 후 생일 쿠폰 지급
+- 회원 로그인 정보를 가져와 해당 회원이 현 시점 기준으로 1년간 로그인하지 않았다면 휴먼회원으로 상태 변경
 
 # Skill tech 
 <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
