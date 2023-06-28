@@ -10,7 +10,7 @@
 - <a href="https://github.com/yalooStore/yalooStore-common-utils">Common Utils</a>
 
 # 1.Project architecture
-![image](https://github.com/yalooStore/.github/assets/81970382/a469c261-2ff1-4221-b220-2de4618ddf4a)
+![image](https://github.com/yalooStore/.github/assets/81970382/4810eac0-dbe4-4e86-a21c-10cf17cc244a)
 
 # 2.ERD
 ![image](https://github.com/yalooStore/.github/assets/81970382/bd76977e-8b3c-4a5a-bf16-ac39626efe87)
