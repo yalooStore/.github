@@ -9,6 +9,9 @@
 ### jitpack을 사용한 공용 모듈화
 - <a href="https://github.com/yalooStore/yalooStore-common-utils">Common Utils</a>
 
+### API Docs
+- <a href="https://yeomyaloo.github.io/yalooStore_API_document.github.io/">API Docs</a> 
+
 # 1.Project architecture
 ![image](https://github.com/yalooStore/.github/assets/81970382/4810eac0-dbe4-4e86-a21c-10cf17cc244a)
 
