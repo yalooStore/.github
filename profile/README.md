@@ -1,10 +1,10 @@
 # 🛍️MSA 쇼핑몰 프로젝트
 ### 서버
-- <a href="https://github.com/yalooStore/yalooStore-shop">API Serve</a>
-- <a href="https://github.com/yalooStore/yalooStore-front">Front Serve</a>
-- <a href="https://github.com/yalooStore/yalooStore-auth">Auth Serve</a>
-- <a href="https://github.com/yalooStore/yalooStore-batch">Batch Serve</a>
-- <a href="https://github.com/yalooStore/yalooStore-gateway">Gateway Serve</a>
+- <a href="https://github.com/yalooStore/yalooStore-shop">API Server</a>
+- <a href="https://github.com/yalooStore/yalooStore-front">Front Server</a>
+- <a href="https://github.com/yalooStore/yalooStore-auth">Auth Server</a>
+- <a href="https://github.com/yalooStore/yalooStore-batch">Batch Server</a>
+- <a href="https://github.com/yalooStore/yalooStore-gateway">Gateway Server</a>
 
 ### jitpack을 사용한 공용 모듈화
 - <a href="https://github.com/yalooStore/yalooStore-common-utils">Common Utils</a>
