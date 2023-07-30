@@ -13,7 +13,7 @@
 - <a href="https://yeomyaloo.github.io/yalooStore_API_document.github.io/">API Docs</a> 
 
 # 1.Project architecture
-![image](https://github.com/yalooStore/.github/assets/81970382/4810eac0-dbe4-4e86-a21c-10cf17cc244a)
+![image](https://github.com/yalooStore/.github/assets/81970382/cc7560f2-0f80-40c8-a060-97dc26d73b27)
 
 # 2.ERD
 ![image](https://github.com/yalooStore/.github/assets/81970382/cc9000d5-516d-422e-b208-490323b73fb2)
