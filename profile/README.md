@@ -16,7 +16,7 @@
 ![image](https://github.com/yalooStore/.github/assets/81970382/4810eac0-dbe4-4e86-a21c-10cf17cc244a)
 
 # 2.ERD
-![erd png](https://github.com/yalooStore/.github/assets/81970382/1131f18a-1e7e-4081-a3d9-5e31b79a8c0d)
+![image](https://github.com/yalooStore/.github/assets/81970382/cc9000d5-516d-422e-b208-490323b73fb2)
 
 # 3.프로젝트 서버별 상세설명
 ## Shop - API Server
