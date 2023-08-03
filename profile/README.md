@@ -6,10 +6,10 @@
 - <a href="https://github.com/yalooStore/yalooStore-batch">Batch Server</a>
 - <a href="https://github.com/yalooStore/yalooStore-gateway">Gateway Server</a>
 
-### jitpack을 사용한 공용 모듈화
+### 공통 코드 모듈화
 - <a href="https://github.com/yalooStore/yalooStore-common-utils">Common Utils</a>
 
-### API Docs
+### API Docs
 - <a href="https://yeomyaloo.github.io/yalooStore_API_document.github.io/">API Docs</a> 
 
 ## Project architecture
